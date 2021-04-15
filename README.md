@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C/C++、Android、Cloud、OpenCV、TensorFlow ...
 - 💞️ I’m looking to collaborate on ...
 - 👨🏻‍💻 LeetCode：https://leetcode.com/5j_54d93/
+- 📖 Microsoft Learn：https://docs.microsoft.com/zh-tw/users/ricky-chuang/
 - 📫 Reach me：https://linktr.ee/5j_54d93
 
 <!---
