@@ -1,6 +1,4 @@
 - 👋🏻 Hi, I’m Ricky.
-- 👀 I’m interested in Cloud、Android、iOS、AI、ML ...
-- 🌱 I’m currently learning C/C++、Android、Cloud、OpenCV、TensorFlow ...
 - 📫 Reach me：https://linktr.ee/5j_54d93
 
 <!---
