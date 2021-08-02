@@ -1,4 +1,4 @@
-# 📫 Reach me：https://linktr.ee/5j_54d93
+# 📫 [Reach me](https://linktr.ee/5j_54d93)
 - 👋🏻 Hi, I’m Ricky.
 - 🧑🏻‍💻 GDSC Lead at NTOU
 - 👨🏻‍💻 HPSer at Google Hardware Product Sprint
