@@ -1,5 +1,5 @@
 # Reach me：[linktr.ee/5j_54d93](https://linktr.ee/5j_54d93)
-- 👋🏻 Hi, I’m Ricky.
+- 👋🏻 Hi！I’m Ricky.
 - 🧑🏻‍💻 GDSC Lead at NTOU
 - 👨🏻‍💻 HPSer at Google Hardware Product Sprint
 - 🇹🇼 Blogger from Taiwan：[sharing-life-in-tw.blogspot.com](https://sharing-life-in-tw.blogspot.com)
