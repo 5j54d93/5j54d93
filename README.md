@@ -6,11 +6,10 @@
 |[LinkedIn](https://www.linkedin.com/in/5j54d93/)|[Quiklabs](https://google.qwiklabs.com/public_profiles/6433a491-5473-4802-83f6-c765698f18b9)|[Microsoft Learn](https://docs.microsoft.com/zh-tw/users/ricky-chuang/)|[LeetCode](https://leetcode.com/5j_54d93/)|
 |:-:|:-:|:-:|:-:|
 
-![Twitch Status](https://img.shields.io/twitch/status/5j_54d93)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC71TBGWnlb26oMC9uS2xnuw)
+![Twitch Status](https://img.shields.io/twitch/status/5j54d93?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/5j_54d93)
 
-- HPSer at Google Hardware Product Sprint
 - DSC Lead at [Google Developers](https://gdsc.community.dev/national-taiwan-ocean-university/)
 - Blogger：[website](https://sharing-life-in-tw.blogspot.com)
 
