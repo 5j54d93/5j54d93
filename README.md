@@ -2,7 +2,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=5j54d93&show_icons=true&title_color=ADBAC7&text_color=ADBAC7&icon_color=539BF5&border_color=C9D5E11B&bg_color=373E47&border_radius=6&custom_title=GitHub%20Stats&ring_color=539BF5"
+    srcset="https://github-readme-stats.vercel.app/api?username=5j54d93&show_icons=true&title_color=ADBAC7&text_color=ADBAC7&icon_color=539BF5&border_color=C9D5E11B&bg_color=2D333B&border_radius=6&custom_title=GitHub%20Stats&ring_color=539BF5"
     media="(prefers-color-scheme: dark)"
   />
   <source
