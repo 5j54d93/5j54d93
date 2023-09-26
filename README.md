@@ -1,4 +1,4 @@
-# Reach me：[Links](https://linktr.ee/5j_54d93)
+# [Reach me：Links](https://linktr.ee/5j_54d93)
 
 <picture>
   <source
